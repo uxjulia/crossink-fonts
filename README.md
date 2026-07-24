@@ -4,7 +4,8 @@ This repository stores font assets used by [CrossInk](https://github.com/uxjulia
 
 ## Repository Layout
 
-- `cpfonts/` contains downloadable zip files for CrossInk fonts.
+- `cpfonts/` contains downloadable zip files and uncompressed font folders for CrossInk fonts.
+- `dictionary-fonts/` contains the same, for CrossInk fonts with additional IPA glyph coverage, for use with dictionaries.
 - `fonts/` contains a subset of source font files, only used by CrossInk to be served when downloading from the reader.
 
 Each font family currently includes sizes `8`, `9`, `10`, `12`, `14`, `16`, `18`, and `20`.
